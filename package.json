@@ -1,0 +1,13 @@
+{
+  "name": "gaga09xmd-bot",
+  "version": "1.0.0",
+  "description": "Multi-functional WhatsApp Bot by Lil Gaga Traxx09",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.6.0",
+    "@hapi/boom": "^10.0.0"
+  }
+}
